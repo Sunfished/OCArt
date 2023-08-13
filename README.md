@@ -9,6 +9,7 @@ Images of each OC, including refs, fanart, and doodles
 - OC - BG.png - OC Art with background.
 ## Buttons
 Icons of each OC, mostly used as a clickable button in many places.
+- Old - Folder containing previous/unused icons
 ## Badges
 An Icon denoting the Series/Story that the OC belongs to.
 ## Files *
