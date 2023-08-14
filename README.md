@@ -2,10 +2,12 @@ Repository of Sunfished's OC's
 
 Anything marked with * is not synced
 # Folder Breakdown:
+
 ## OCs
 Images of each OC, including refs, fanart, and doodles
 - Revisions - Folder containing previous renditions of the OC
 - Fanart * - Folder containing fanart of the OC. In cases where multiple OCs are in the image, the fanart belongs to the OC with most priority/prominence.
+- Extra * - Folder containing any extra artwork of the OC, such as doodles
 - OC.png - Main Art, has transparency.
 - OC - BG.png - OC Art with background.
 ## Buttons
