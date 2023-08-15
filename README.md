@@ -13,7 +13,16 @@ Images of each OC, including refs, fanart, and doodles
 ## Buttons
 Icons of each OC, mostly used as a clickable button in many places.
 - Old - Folder containing previous/unused icons
+
+The color of the Button denotes different things:
+- Gold - A major character, who drives the story somehow.
+- Silver - A side character, relevant to the story.
+- Pale Green - A minor character.
+- White - A character who currently has no role or is unassigned.
+- Mint Green - A character who exists outside of the Suniverse.
 ## Badges
 An Icon denoting the Series/Story that the OC belongs to.
+
+
 ## Files *
 Work files of each OC, such as .mdp and .psd files
