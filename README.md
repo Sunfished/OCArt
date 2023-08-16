@@ -22,6 +22,8 @@ The color of the Button denotes different things:
 - Mint Green - A character who exists outside of the Suniverse.
 ## Badges
 An Icon denoting the Series/Story that the OC belongs to.
+## Misc
+Contains extraneous images
 
 
 ## Files *
