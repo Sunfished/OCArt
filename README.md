@@ -1,3 +1,6 @@
+
+
+
 Repository of Sunfished's OC's
 
 Anything marked with * is not synced
@@ -15,13 +18,19 @@ Icons of each OC, mostly used as a clickable button in many places.
 - Old - Folder containing previous/unused icons
 
 The color of the Button denotes different things:
-- Gold - A major character, who drives the story somehow.
-- Silver - A side character, relevant to the story.
-- Pale Green - A minor character.
-- White - A character who currently has no role or is unassigned.
-- Mint Green - A character who exists outside of the Suniverse.
+ - Gold - A major character, who drives the story somehow.
+ - Silver - A side character, relevant to the story.
+ - Pale Green - A minor character.
+ - White - A character who currently has no role or is unassigned.
+ - Mint Green - A character who exists outside of the Suniverse.
 ## Badges
 An Icon denoting the Series/Story that the OC belongs to.
+|  |  |  |  |
+|--|--|--|--|
+| ![enter image description here](https://raw.githubusercontent.com/Sunfished/OCArt/master/Badges/CURS.png)CURS | ![enter image description here](https://raw.githubusercontent.com/Sunfished/OCArt/master/Badges/SABA.png)SABA | ![enter image description here](https://raw.githubusercontent.com/Sunfished/OCArt/master/Badges/IRIS.png)IRIS | ![enter image description here](https://raw.githubusercontent.com/Sunfished/OCArt/master/Badges/EDEN.png)EDEN |
+| ![enter image description here](https://raw.githubusercontent.com/Sunfished/OCArt/master/Badges/Diver.png)Diver | ![enter image description here](https://raw.githubusercontent.com/Sunfished/OCArt/master/Badges/KTMY.png)KTMY | ![enter image description here](https://raw.githubusercontent.com/Sunfished/OCArt/master/Badges/Love%20Tic.png)LoveTic | ![enter image description here](https://raw.githubusercontent.com/Sunfished/OCArt/master/Badges/Tower%20Blaze.png) Tower|
+| ![enter image description here](https://raw.githubusercontent.com/Sunfished/OCArt/master/Badges/Navarite.png)Navarite | ![enter image description here](https://raw.githubusercontent.com/Sunfished/OCArt/master/Badges/Elysia.png)Elysia | ![enter image description here](https://raw.githubusercontent.com/Sunfished/OCArt/master/Badges/Mai%20Oesee.png)Mai |  |
+
 ## Misc
 Contains extraneous images
 
